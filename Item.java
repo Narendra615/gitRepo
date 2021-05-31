@@ -35,4 +35,6 @@ public class Item {
 	}
    System.out.println("hii");
    System.out.println("hii");
+ if(value==false){
+System.out.println("status is"+ false)}
 }
